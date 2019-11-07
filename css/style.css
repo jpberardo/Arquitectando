@@ -193,6 +193,13 @@ padding-bottom: 25px;
 height: 120px;
 padding: 20px;
 }
+
+.img-studio{
+height: 160px;
+padding-top: 30px;
+padding-bottom: 25px;
+}
+
 .titolo-clean{
   margin-top: 10%;
 }
