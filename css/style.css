@@ -76,9 +76,9 @@ font-size: 2.0em;
   }
 
   nav .brand-logo { 
-visibility: 100%;
 font-family: 'Special Elite', cursive;
 margin-top: 15px;
+right: 100%;
 }
 
 }
