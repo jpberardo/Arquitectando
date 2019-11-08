@@ -74,8 +74,16 @@ font-size: 2.0em;
   nav .nav-wrapper {
     padding: 0 10px;
   }
+  
+  nav .brand-logo {
+font-family: 'Special Elite', cursive;
+margin-top: 15px;
+height: 100%;
+width: 100%;
+}
 
 }
+
 .header-sub {
   margin: 18%;
 }
