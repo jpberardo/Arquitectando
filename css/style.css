@@ -34,7 +34,7 @@ p {
   line-height: 2rem;
 }
 
-.sidenav-trigger {
+.button-collapse {
   color: #EF5350;
 }
 
@@ -72,7 +72,11 @@ font-size: 2.0em;
   }
 
   nav .nav-wrapper {
+<<<<<<< HEAD
     padding: 0 8px;
+=======
+    padding: 0 10px;
+>>>>>>> parent of ca932d8... modifico menu mobile
   }
 
   nav .brand-logo { 
