@@ -19,12 +19,19 @@ nav .brand-logo {
   width: 120px; 
   margin-right: 15px;
   margin-top: 5px;
-
 }
 
 nav .brand-logo {
 font-family: 'Special Elite', cursive;
+}
 
+.side-nav{
+  background-color: #6f6f6f;
+  width: 200px;
+
+}
+a.side-nav{
+color: #ffff;
 }
 
 nav .nav-wrapper {
