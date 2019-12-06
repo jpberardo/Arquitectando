@@ -33,7 +33,7 @@ font-family: 'Special Elite', cursive;
 a.side-nav{
 color: #ffff;
 }
-.side-nav li > a > i.material-icons {
+li a i.material-icons {
   color: #ef5350;
 }
 nav .nav-wrapper {
