@@ -26,11 +26,11 @@ font-family: 'Special Elite', cursive;
 }
 
 .side-nav{
-  background-color: #6f6f6f;
+  background-color: rgba(0, 0, 0, 0.63);
   width: 200px;
 
 }
-a i .side-nav{
+a.side-nav{
 color: #ffff;
 }
 .side-nav li > a > i.material-icons {
