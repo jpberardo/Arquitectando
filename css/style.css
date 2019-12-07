@@ -65,7 +65,7 @@ p {
 .header-subtitle{margin-top: 10%;
 font-size: 2.0em;
 }
-@media only screen and (max-width : 1280px) {
+@media only screen and (max-width : 900px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
@@ -119,7 +119,7 @@ font-size: 1.1em;
 }
 
 .img-logo0 {
-  width: 100px; 
+  width: 110px; 
   margin-right: 5px;
   margin-left: 40px;
   margin-top: 5px;
