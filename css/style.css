@@ -68,7 +68,7 @@ font-size: 2.0em;
 @media only screen and (max-width : 1280px) {
   .parallax-container .section {
     position: absolute;
-    top: 40%;
+    top: 30%;
   }
   
   #index-banner .section {
